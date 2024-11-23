@@ -1,0 +1,9 @@
+protobuf
+sentencepiece
+torchaudio
+transformers
+
+datasets
+librosa
+soundfile
+
